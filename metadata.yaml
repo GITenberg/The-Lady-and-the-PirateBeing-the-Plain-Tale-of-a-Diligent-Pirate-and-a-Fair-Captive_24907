@@ -1,0 +1,35 @@
+_repo: The-Lady-and-the-PirateBeing-the-Plain-Tale-of-a-Diligent-Pirate-and-a-Fair-Captive_24907
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mathes, Harry A.
+    gutenberg_agent_id: '26805'
+    url: http://www.gutenberg.org/2009/agents/26805
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+title: 'The Lady and the Pirate
+
+  Being the Plain Tale of a Diligent Pirate and a Fair Captive'
+url: http://www.gutenberg.org/ebooks/24907
