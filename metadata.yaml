@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1094
     wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24907#The-Lady-and-the-PirateBeing-the-Plain-Tale-of-a-Diligent-Pirate-and-a-Fair-Captive
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-03-24'
 gutenberg_type: Text
